@@ -1,6 +1,6 @@
 # QUOTE APP
 
-### Author: Arnold Oduma
+### Author: Jeanine NISHIMWE
 
 This is a program to enable a user to view quotes vote for their favorite quotes and also create new quotes. The highest voted quote will be highlighted
 
