@@ -95,11 +95,11 @@ If you want to put out a pull request you first have to send us the sample code 
 
 ## Versioning
 
-We use currently have only the first version of this application.
+There is currently only the first version of this application.
 
 ## Authors
 
-- **Arnold Oduma** - _Initial work_ - [Portfolio](https://github.com/NJeanine-creator/Quotes-App)
+- **Jeanine NISHMWE** - _Initial work_ - KNOW ME here[Portfolio](https://github.com/NJeanine-creator/Quotes-App)
 
 ## Contacts
 
